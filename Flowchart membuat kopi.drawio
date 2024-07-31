@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="bk_bzS5_GggIb9NhFTmL">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-1" target="KJPx_xqoxTrrr0feW4pu-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-1" value="MULAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-3" target="KJPx_xqoxTrrr0feW4pu-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-3" value="kopi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-45" target="KJPx_xqoxTrrr0feW4pu-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-45" value="gula" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-48" target="KJPx_xqoxTrrr0feW4pu-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-48" value="air" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-50" target="KJPx_xqoxTrrr0feW4pu-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-50" value="siapkan panci lalu rebus air di dalam panci tersebut" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-52" target="KJPx_xqoxTrrr0feW4pu-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-52" value="tunggu air tersebut hingga mendidih" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-54" target="KJPx_xqoxTrrr0feW4pu-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-54" value="sambil menunggu air tersebut mendidih, masukkan kopi dan gula ke dalam gelas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-56" target="KJPx_xqoxTrrr0feW4pu-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-56" value="jika air sudah mendidih tuangkan air tersebut ke dalam gelas yang berisi kopi dan gula tadi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-58" target="KJPx_xqoxTrrr0feW4pu-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-58" value="aduk hingga merata" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-61" value="kopi siap disajikan" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KJPx_xqoxTrrr0feW4pu-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="950" as="sourcePoint" />
+            <mxPoint x="180" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJPx_xqoxTrrr0feW4pu-68" value="SELESAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="950" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
